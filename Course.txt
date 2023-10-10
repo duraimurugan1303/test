@@ -1,0 +1,4 @@
+python
+pyhton fullstack
+sql
+devops
