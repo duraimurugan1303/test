@@ -2,3 +2,5 @@ python
 pyhton fullstack
 sql
 devops
+java
+Android
